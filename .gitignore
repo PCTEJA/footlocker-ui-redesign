@@ -4,6 +4,9 @@
 /dist/
 /.netlify/
 /node_modules/
+# Generated exports and temporary presentation build files stay local.
+/[Oo][Uu][Tt][Pp][Uu][Tt]/
+/.pitch-build/
 /.env
 /.env.*
 !.env.example

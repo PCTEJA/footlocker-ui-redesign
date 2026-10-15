@@ -6,6 +6,50 @@ dialog{border:0;padding:0;box-shadow:0 15px 70px #0004;width:470px;max-width:cal
 @media(min-width:701px) and (max-width:1100px){.head-main{gap:20px;padding-inline:24px}.logo{width:174px}.store{display:none}main{padding-inline:24px}.rotation-bar{gap:20px}.interests button{padding-inline:10px}.hero{grid-template-columns:minmax(0,1fr) 260px}.hero-shop{padding:15px}.campaign-copy h1{font-size:43px}.product-grid{gap:12px}.product-image{height:134px}.product h3{font-size:12px}.listing-body{grid-template-columns:1fr}.listing aside{display:none}.filters-trigger{display:flex}.filterbar{margin-inline:-24px;padding-inline:24px}.players{gap:7px}.player{gap:6px}.player img{width:44px}.player span{font-size:10px}.listing .product-image{height:147px}.listing aside.show-filters{display:block;position:absolute;z-index:3;right:24px;width:230px;background:white;border:1px solid #ddd;padding:15px;box-shadow:0 4px 20px #0002}.editorial-card h3{font-size:19px}}
 @media(max-width:700px){body{font-size:13px}.utility{height:22px;padding:0 16px;font-size:9px}.utility span:last-child{font-size:9px}.head-main{padding:0 16px;height:106px;display:grid;grid-template-columns:28px 1fr 50px;grid-template-rows:52px 44px;gap:0 10px}.mobile-menu{display:flex}.logo{width:153px;justify-self:center}.search{grid-row:2;grid-column:1/-1;width:100%;height:40px;padding-inline:10px;gap:8px}.search input{font-size:12px}.search-key,.store,.account{display:none}.bag{grid-column:3;grid-row:1;justify-content:flex-end}.bag span{font-size:0}.bag b{font-size:10px;background:#111;color:#fff;border-radius:50%;width:16px;height:16px;display:inline-flex;align-items:center;justify-content:center;margin-left:-5px}.bag svg{width:21px}nav{display:none}nav.nav-open{display:flex;height:auto;flex-wrap:wrap;padding:12px;gap:16px}header{border:0}main{padding:0 16px}.rotation-bar{height:auto;flex-wrap:wrap;gap:12px;padding:11px 0 13px}.rotation-bar h2{font-size:24px;order:0}.rotation-bar>.edit-interests{order:1;font-size:0;margin-left:auto}.rotation-bar>.edit-interests svg{width:19px;height:19px}.interests{order:2;width:100%;gap:7px}.interests button{flex:1;min-height:32px;font-size:11px;padding:5px 8px}.hero{height:auto;display:block;border:1px solid #ddd}.campaign{height:128px}.campaign>img{object-position:center center}.campaign-copy{top:16px;left:15px}.campaign-copy span{font-size:8px;letter-spacing:.08em}.campaign-copy h1{font-size:32px;margin:6px 0}.campaign-copy p{display:none}.hero-shop{padding:11px 12px;display:flex;flex-direction:row;gap:8px;align-items:center}.hero-shop h2{font-family:Maven;font-size:13px;margin:0;font-weight:500}.eyebrow{display:none}.hero-color{font-size:10px;margin-top:2px}.hero-shop strong{font-size:13px;margin-top:3px}.hero-options{width:143px;gap:0;display:block}.hero .primary{font-size:12px;width:100%;min-height:40px;padding:8px 10px}.hero-options>.text-link{display:none}.color-thumbs{display:none}.section-title{height:65px;align-items:center}.section-title h2{font-size:23px}.section-title p{font-size:9px;margin-top:4px}.section-title>.text-link{font-size:11px;gap:5px}.section-title>.text-link svg{width:15px}.tiny-divider{margin:0 3px}.product-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:21px 12px}.product-image{height:100px}.product-image>img{max-width:100%}.heart{top:3px;right:3px;width:27px;height:27px}.heart svg{width:16px}.product-info{padding-top:7px}.color-label{font-size:9px;margin-bottom:3px}.product h3{white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;min-height:34px;font-size:12px;line-height:1.35}.product-info p{font-size:10px;margin-top:2px}.price{font-size:13px;margin:4px 0 7px}.choose{height:42px;font-size:11px;padding-inline:9px}.choose svg{width:14px}.editorial{grid-template-columns:1fr;gap:10px;margin:25px 0}.editorial-card{height:92px;padding:14px}.editorial-card h3{font-size:23px}.editorial-card img{object-position:center 33%}.editorial-card p{font-size:11px}.breadcrumb{margin-top:10px;font-size:9px}.listing-title{margin:10px 0 17px}.listing-title h1{font-size:29px}.listing-title p{font-size:11px;margin-top:5px}.listing-title>.text-link{display:none}.players{display:flex;gap:8px;overflow-x:auto;margin:0 -16px 16px;padding:0 16px 5px;scrollbar-width:thin}.player{flex:0 0 90px;height:80px;display:flex;flex-direction:column;gap:0;justify-content:flex-start;background:#f7f7f7}.player img{width:100%;height:52px;object-position:center 22%}.player span{font-size:9px;max-width:none;text-align:center;white-space:nowrap;padding:7px 2px 0}.player .shoe-avatar{height:52px;width:100%;object-fit:contain}.player>svg{margin:13px auto 8px;width:28px;height:28px}.player:has(svg)>span{padding-top:0}.filterbar{margin:0 -16px;padding:8px 16px;min-height:52px;gap:7px}.filters-trigger{display:flex;font-size:11px;padding:0 10px;gap:6px;height:36px}.filters-trigger svg{width:15px}.filter-count{display:none}.filter-chip{display:none}.filter-chip[data-filter=Size]{display:flex;min-width:67px;height:36px;font-size:11px;padding:0 10px;gap:10px}.sort{font-size:10px}.sort select{font-size:10px;width:74px}.listing-body{display:block;padding-top:15px}.listing aside{display:none}.listing aside.show-filters{display:block;position:absolute;z-index:4;left:16px;right:16px;background:white;border:1px solid #ccc;padding:20px;box-shadow:0 5px 30px #0003}.result-heading{margin-bottom:12px;align-items:center}.result-heading h2{font-size:22px}.result-heading p{font-size:10px}.result-count{display:none}.listing .product-image{height:104px}.listing .product h3{font-size:12px}.listing .product .color-label{font-size:9px}.listing .product-info p{font-size:10px}.listing .choose{height:42px;font-size:11px}.listing-grid{gap:22px 12px}footer{padding:18px 16px;gap:12px;flex-wrap:wrap;font-size:9px}footer>span:nth-child(2){display:none}dialog{width:100%;max-width:100%;max-height:88svh;margin:auto 0 0;border-radius:12px 12px 0 0;overflow:auto}.dialog-header{padding:14px 18px}.dialog-header:before{content:"";position:absolute;width:36px;height:3px;top:7px;left:calc(50% - 18px);background:#ccc;border-radius:3px}.dialog-header h2{font-size:24px}.quick-body{padding:16px 18px}.quick-product{grid-template-columns:145px 1fr;gap:12px}.quick-product img{width:145px;max-height:92px}.quick-product h3{font-size:16px}.quick-product p{font-size:10px}.quick-colors{margin:16px 0}.quick-colors button{height:38px;width:61px}.size-label{margin:17px 0 10px}.quick-sizes{gap:7px}.quick-sizes button{height:41px}.delivery{padding:10px;margin-top:15px}.quick-footer{padding:13px 18px 16px;background:#fff;position:sticky;bottom:0}.quick-footer .primary{min-height:44px}.quick-footer>.text-link{margin:12px 0 6px;font-size:11px}.quick-footer small{font-size:8px}#toast{max-width:90%;width:max-content;bottom:20px;font-size:11px}}
 
+/* Shared scroll treatment for the page, dialogs, and horizontal product filters. */
+:root {
+  --scroll-track: #f5f5f5;
+  --scroll-thumb: #737373;
+  --scroll-thumb-hover: #111;
+  scrollbar-gutter: stable;
+}
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--scroll-thumb) var(--scroll-track);
+}
+dialog {
+  scrollbar-gutter: stable;
+  overscroll-behavior: contain;
+}
+:root:has(dialog:modal) { overflow: hidden; }
+/* Use the detailed treatment in Chromium/Safari; retain standard styling elsewhere. */
+@supports selector(::-webkit-scrollbar) {
+  * { scrollbar-width: auto; scrollbar-color: auto; }
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: var(--scroll-track); }
+  ::-webkit-scrollbar-thumb {
+    background: var(--scroll-thumb);
+    border: 2px solid var(--scroll-track);
+    border-radius: 5px;
+    min-height: 36px;
+    min-width: 36px;
+  }
+  ::-webkit-scrollbar-thumb:hover,
+  ::-webkit-scrollbar-thumb:active { background: var(--scroll-thumb-hover); }
+  ::-webkit-scrollbar-button { display: none; width: 0; height: 0; }
+  ::-webkit-scrollbar-corner { background: var(--scroll-track); }
+  /* Override the mobile filter strip's thin native scrollbar as well. */
+  .players { scrollbar-width: auto; }
+}
+@media (forced-colors: active) {
+  :root {
+    --scroll-track: Canvas;
+    --scroll-thumb: ButtonText;
+    --scroll-thumb-hover: Highlight;
+  }
+  * { scrollbar-color: auto; }
+}
+
 /* Final viewport refinements: preserve the complete campaign photograph. */
 @media(min-width:701px){.campaign>img{position:absolute;right:0;top:0;width:auto;height:100%;max-width:none;object-fit:contain}.hero{height:190px}.section-title{height:56px}.home .product-image{height:135px}}
 @media(min-width:1400px){.hero{height:230px}.home .product-image{height:160px}.section-title{height:66px}}

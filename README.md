@@ -4,7 +4,7 @@
 
 **A Foot Locker UI design study for discovery, confidence, and revenue growth.**
 
-[Explore the live demo](https://footlocker-ui-study-pcteja.netlify.app) · [View every frame](https://footlocker-ui-study-pcteja.netlify.app/gallery.html) · [Design decisions](designs-v2/README.md) · [Asset sources](designs-v2/asset-sources.json)
+[Explore the live demo](https://footlocker-ui-study-pcteja.netlify.app) · [Read the pitch deck](#pitch-deck) · [View every frame](https://footlocker-ui-study-pcteja.netlify.app/gallery.html) · [Design decisions](designs-v2/README.md) · [Asset sources](designs-v2/asset-sources.json)
 
 **Original imagery · Responsive layouts · Athlete filtering · Quick shop**
 
@@ -13,6 +13,109 @@
 ![Redesigned Foot Locker homepage in a short laptop viewport](designs-v2/frames/02-home-small-laptop-1280x580.png)
 
 > **Independent design study, not an official Foot Locker storefront.** This repository demonstrates a shopping interface and a plan to test its commercial impact. It does not collect payments, place orders, connect to live inventory, or claim measured revenue gains. Foot Locker and product-brand assets belong to their respective owners.
+
+## Pitch deck
+
+**Does user experience improve growth?** A visual walkthrough of the purchase journey, desktop and mobile redesigns, and the growth hypothesis.
+
+<div align="center">
+
+<a href="docs/pitch-deck/Foot-Locker-Pitch-Deck.pdf">
+  <img src="docs/pitch-deck/slide-1.jpg" width="360" alt="Open the nine-page pitch deck: Does user experience improve growth? Black cover with pink typography and a sneaker illustration.">
+</a>
+
+**[Read the PDF →](docs/pitch-deck/Foot-Locker-Pitch-Deck.pdf)** · [Download PDF ↓](docs/pitch-deck/Foot-Locker-Pitch-Deck.pdf?raw=true)
+
+9 slides · Portrait format · PDF, 3.9 MB
+
+</div>
+
+### Browse without leaving the README
+
+Expand a slide below to read its preview and summary. Select any preview to open the full-size image; use **Read the PDF** above for the complete deck.
+
+<details>
+<summary><strong>01 · The question</strong> — Does user experience improve growth?</summary>
+
+A closer look at the path to purchase. This independent design study explores how a clearer shopping experience could support growth.
+
+[![Slide 1: Does user experience improve growth?](docs/pitch-deck/slide-1.jpg)](docs/pitch-deck/slide-1.jpg)
+
+</details>
+
+<details>
+<summary><strong>02 · The purchase journey</strong> — A shorter path to the next pair</summary>
+
+The proposed flow has three stages: find your pair, choose your size, and review your bag. The “almost 9 → 3” comparison is an illustrative journey, not verified click counts. The prototype stops before payment; total clicks need validation using the same start and end points.
+
+[![Slide 2: Illustrative original journey compared with the three proposed stages: find, choose size, and review bag.](docs/pitch-deck/slide-2.jpg)](docs/pitch-deck/slide-2.jpg)
+
+</details>
+
+<details>
+<summary><strong>03 · Desktop homepage</strong> — The homepage, ready to shop</summary>
+
+Compare the campaign-led original capture with a compact, shoppable hero and recommendations brought into the first screen.
+
+[![Slide 3: Original desktop homepage above the redesign, showing the more compact campaign and visible product recommendations.](docs/pitch-deck/slide-3.jpg)](docs/pitch-deck/slide-3.jpg)
+
+</details>
+
+<details>
+<summary><strong>04 · Desktop discovery</strong> — The assortment stays in view</summary>
+
+Large athlete portraits become compact filters, keeping the selected player and product assortment together.
+
+[![Slide 4: Original basketball listing compared with compact athlete filters above the redesigned product grid.](docs/pitch-deck/slide-4.jpg)](docs/pitch-deck/slide-4.jpg)
+
+</details>
+
+<details>
+<summary><strong>05 · Mobile homepage</strong> — The mobile comparison</summary>
+
+The redesigned mobile homepage brings the price, size action, and recommendations into view. These are cropped captures with different viewport and scroll positions, illustrating hierarchy rather than a controlled comparison.
+
+[![Slide 5: Mobile homepage comparison showing a campaign-led capture beside a shoppable hero and recommendations.](docs/pitch-deck/slide-5.jpg)](docs/pitch-deck/slide-5.jpg)
+
+</details>
+
+<details>
+<summary><strong>06 · Mobile discovery</strong> — Athlete discovery, with products in view</summary>
+
+Compact athlete filters sit above the products so shoppers can explore a player's assortment in place. The captures have different viewport and scroll positions.
+
+[![Slide 6: Mobile collection comparison with large athlete portraits on the left and compact filters with products on the right.](docs/pitch-deck/slide-6.jpg)](docs/pitch-deck/slide-6.jpg)
+
+</details>
+
+<details>
+<summary><strong>07 · Mobile product details</strong> — Product details stay close</summary>
+
+The redesigned homepage exposes the price and size action; quick shop keeps the product and color visible while choosing. The two redesign crops show separate interface states.
+
+[![Slide 7: Original product page beside detail crops of the redesigned homepage and quick-shop sheet.](docs/pitch-deck/slide-7.jpg)](docs/pitch-deck/slide-7.jpg)
+
+</details>
+
+<details>
+<summary><strong>08 · Choosing a size</strong> — The choice stays with the product</summary>
+
+Compare a separate product page with an in-page sheet that brings the product, size selection, and action together. Displayed sizes illustrate the prototype; availability is not connected to live inventory.
+
+[![Slide 8: Original mobile size controls beside the redesigned in-page size sheet, with product context and add-to-bag action.](docs/pitch-deck/slide-8.jpg)](docs/pitch-deck/slide-8.jpg)
+
+</details>
+
+<details>
+<summary><strong>09 · The growth hypothesis</strong> — Better UX. Growth to prove.</summary>
+
+A clearer route may help shoppers reach a confident purchase. Test task completion, purchase conversion, and revenue per session in a controlled experiment. Commercial impact remains unmeasured.
+
+[![Slide 9: Better UX. Growth to prove. A call to validate the design through task completion, purchase conversion, and revenue per session.](docs/pitch-deck/slide-9.jpg)](docs/pitch-deck/slide-9.jpg)
+
+</details>
+
+Continue into the case study below for the evidence, revenue assumptions, and validation plan.
 
 ## The opportunity
 
@@ -155,7 +258,7 @@ npm run build
 npm start
 ```
 
-Open `http://127.0.0.1:4173`. Product list: `/?page=listing`. Frame gallery: `/gallery.html`.
+Open `http://127.0.0.1:4173`. Product list: `/?page=listing`. Frame gallery: `/gallery.html`. Pitch deck: `/docs/pitch-deck/Foot-Locker-Pitch-Deck.pdf`.
 
 ## Deploy to Netlify
 
@@ -172,6 +275,7 @@ Connect the repository to Netlify and use the project configuration in Git. The 
 ```text
 designs-v2/       Responsive source, original assets, frames, and design rationale
 docs/images/     Before captures and the revenue-target illustration
+docs/pitch-deck/ Nine-page PDF and expandable README slide previews
 scripts/         Dependency-free build, validation, and local server
 netlify.toml     Reproducible deployment settings
 ```

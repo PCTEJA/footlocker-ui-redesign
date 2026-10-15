@@ -1,0 +1,19 @@
+# Rejected first exploration stays local; version 2 is the corrected deliverable.
+/designs/
+/*.zip
+/dist/
+/.netlify/
+/node_modules/
+/.env
+/.env.*
+!.env.example
+*.log
+/designs-v2/source/*-original.html
+/designs-v2/source/caitlin-page.html
+/designs-v2/source/original-assets.json
+/designs-v2/source/prepare-assets.cjs
+/designs-v2/source/clean-crops.cjs
+/designs-v2/source/inspect.cjs
+/designs-v2/source/finish.cjs
+/docs/deployment-proof.png
+

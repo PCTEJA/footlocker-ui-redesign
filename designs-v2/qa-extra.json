@@ -1,0 +1,58 @@
+[
+  {
+    "name": "10-home-small-mobile-360x740",
+    "width": 360,
+    "height": 740,
+    "overflow": false,
+    "firstRowButtons": [
+      732,
+      732
+    ]
+  },
+  {
+    "name": "11-listing-small-mobile-360x740",
+    "width": 360,
+    "height": 740,
+    "overflow": false,
+    "firstRowButtons": [
+      699,
+      699
+    ]
+  },
+  {
+    "name": "12-home-desktop-full",
+    "width": 1440,
+    "height": 900,
+    "overflow": false,
+    "firstRowButtons": [
+      784,
+      784,
+      784,
+      784
+    ]
+  },
+  {
+    "name": "13-listing-desktop-full",
+    "width": 1440,
+    "height": 900,
+    "overflow": false,
+    "firstRowButtons": [
+      737,
+      737,
+      737,
+      737
+    ]
+  },
+  {
+    "name": "14-listing-short-laptop-1280x580",
+    "width": 1280,
+    "height": 580,
+    "overflow": false,
+    "firstRowButtons": [
+      569,
+      569,
+      569,
+      569
+    ]
+  }
+]

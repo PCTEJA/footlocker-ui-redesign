@@ -1,0 +1,18 @@
+{
+  "method": "Chrome UI verification through the connected browser",
+  "date": "2026-10-14",
+  "disclaimer": {
+    "1280x580": "Pass: full message, primary action and official-site link visible",
+    "360x740": "Pass: full message and both actions visible without scrolling",
+    "sessionAcknowledgement": "Pass: reload retains acknowledgement"
+  },
+  "shoppingJourney": {
+    "addDisabledBeforeSize": "Pass",
+    "caitlinBlueVariant": "Pass: blue image, blue label and H7423400 details link",
+    "explicitSize": "Pass: US Men 10",
+    "previewBag": "Pass: item visible after add and reload",
+    "removeItem": "Pass: bag returns to empty state",
+    "search": "Pass: LeBron search displays the two matching listing products"
+  },
+  "limitations": "No real inventory, payment, checkout, revenue measurement or complete accessibility audit."
+}

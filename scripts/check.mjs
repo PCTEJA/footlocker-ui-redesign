@@ -1,0 +1,15 @@
+import {access,readFile,readdir} from 'node:fs/promises';
+import {Script} from 'node:vm';
+import path from 'node:path';
+for(const file of ['designs-v2/app.js','designs-v2/preview.js'])new Script(await readFile(file,'utf8'),{filename:file});
+const source=await readFile('designs-v2/app.js','utf8');
+const files=[...source.matchAll(/'([a-zA-Z0-9][a-zA-Z0-9-]*\.(?:png|jpg|svg))'/g)].map(x=>x[1]);
+for(const file of files)await access(path.join('designs-v2/assets',file));
+for(const file of ['campaign.jpg','campaign-tight.png','classic.woff','maven.woff2','maven-medium.woff2','caitlin-pink-tile.png','caitlin-blue-tile.png','caitlin-yellow-tile.png'])await access(path.join('designs-v2/assets',file));
+const frames=(await readdir('designs-v2/frames')).filter(f=>f.endsWith('.png'));
+if(frames.length!==14)throw new Error('Expected 14 design frames');
+const readme=await readFile('README.md','utf8');
+for(const match of readme.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g))if(!match[1].startsWith('https:'))await access(match[1]);
+const index=await readFile('designs-v2/index.html','utf8');
+if(!index.includes('preview.js'))throw new Error('Missing demo interactions');
+console.log('PASS: JavaScript syntax, product assets, 14 frames, README images, and demo entrypoint.');

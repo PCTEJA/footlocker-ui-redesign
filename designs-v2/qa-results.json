@@ -1,0 +1,202 @@
+[
+  {
+    "name": "01-home-laptop-1280x720",
+    "width": 1280,
+    "height": 720,
+    "overflow": false,
+    "missingImages": [],
+    "firstRowButtons": [
+      {
+        "bottom": 687,
+        "visible": true
+      },
+      {
+        "bottom": 687,
+        "visible": true
+      },
+      {
+        "bottom": 687,
+        "visible": true
+      },
+      {
+        "bottom": 687,
+        "visible": true
+      }
+    ],
+    "fonts": true,
+    "errors": []
+  },
+  {
+    "name": "02-home-small-laptop-1280x580",
+    "width": 1280,
+    "height": 580,
+    "overflow": false,
+    "missingImages": [],
+    "firstRowButtons": [
+      {
+        "bottom": 566,
+        "visible": true
+      },
+      {
+        "bottom": 566,
+        "visible": true
+      },
+      {
+        "bottom": 566,
+        "visible": true
+      },
+      {
+        "bottom": 566,
+        "visible": true
+      }
+    ],
+    "fonts": true,
+    "errors": []
+  },
+  {
+    "name": "03-listing-laptop-1280x720",
+    "width": 1280,
+    "height": 720,
+    "overflow": false,
+    "missingImages": [],
+    "firstRowButtons": [
+      {
+        "bottom": 701,
+        "visible": true
+      },
+      {
+        "bottom": 701,
+        "visible": true
+      },
+      {
+        "bottom": 701,
+        "visible": true
+      },
+      {
+        "bottom": 701,
+        "visible": true
+      }
+    ],
+    "fonts": true,
+    "errors": []
+  },
+  {
+    "name": "04-listing-small-laptop-1024x768",
+    "width": 1024,
+    "height": 768,
+    "overflow": false,
+    "missingImages": [],
+    "firstRowButtons": [
+      {
+        "bottom": 722,
+        "visible": true
+      },
+      {
+        "bottom": 722,
+        "visible": true
+      },
+      {
+        "bottom": 722,
+        "visible": true
+      },
+      {
+        "bottom": 722,
+        "visible": true
+      }
+    ],
+    "fonts": true,
+    "errors": []
+  },
+  {
+    "name": "05-home-mobile-390x844",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "missingImages": [],
+    "firstRowButtons": [
+      {
+        "bottom": 732,
+        "visible": true
+      },
+      {
+        "bottom": 732,
+        "visible": true
+      }
+    ],
+    "fonts": true,
+    "errors": []
+  },
+  {
+    "name": "06-listing-mobile-390x844",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "missingImages": [],
+    "firstRowButtons": [
+      {
+        "bottom": 699,
+        "visible": true
+      },
+      {
+        "bottom": 699,
+        "visible": true
+      }
+    ],
+    "fonts": true,
+    "errors": []
+  },
+  {
+    "name": "07-quick-shop-mobile-390x844",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "missingImages": [],
+    "firstRowButtons": [
+      {
+        "bottom": 732,
+        "visible": true
+      },
+      {
+        "bottom": 732,
+        "visible": true
+      }
+    ],
+    "fonts": true,
+    "errors": []
+  },
+  {
+    "name": "08-home-desktop-1440x900",
+    "width": 1440,
+    "height": 900,
+    "overflow": false,
+    "missingImages": [],
+    "firstRowButtons": [
+      {
+        "bottom": 784,
+        "visible": true
+      },
+      {
+        "bottom": 784,
+        "visible": true
+      },
+      {
+        "bottom": 784,
+        "visible": true
+      },
+      {
+        "bottom": 784,
+        "visible": true
+      }
+    ],
+    "fonts": true,
+    "errors": []
+  },
+  {
+    "interactionCheck": {
+      "lebronProducts": 2,
+      "addDisabledBeforeSize": true,
+      "bagCount": "1",
+      "dialogClosed": true
+    }
+  }
+]

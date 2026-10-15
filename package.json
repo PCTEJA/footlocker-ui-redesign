@@ -1,0 +1,12 @@
+{
+  "name": "footlocker-ui-redesign",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Foot Locker UI design study with original product imagery and a revenue-growth experiment plan.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

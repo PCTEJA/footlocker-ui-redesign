@@ -1,0 +1,268 @@
+[
+  {
+    "file": "logo.svg",
+    "url": "https://www.footlocker.com/images/FL/logo.svg",
+    "description": "Original Foot Locker wordmark",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "classic.woff",
+    "url": "https://www.footlocker.com/fonts/FootLocker-FLClassic.woff",
+    "description": "Foot Locker display type",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "maven.woff2",
+    "url": "https://www.footlocker.com/fonts/MavenPro-Regular.woff2",
+    "description": "Foot Locker UI type",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "maven-medium.woff2",
+    "url": "https://www.footlocker.com/fonts/MavenPro-Medium.woff2",
+    "description": "Foot Locker UI type medium",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "campaign.jpg",
+    "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/261014-fl-rec6peceoc7vxfgkg-nike-caitlyn1-midnight-fever/261014-flus-flca-rec6pECeoC7vxfgkg-nike-caitlyn1-midnight-fever-sotf-1up.jpg",
+    "description": "Shop Nike Basketball",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "boots.jpg",
+    "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/261012-flus-flca-recqp4r1ldixxkeoe-kids-boots/261012-flus-flca-recQp4r1LDIXxkeoE-kids-boots-sotf-3up.jpg",
+    "description": "Shop Kids' Boots",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "running.jpg",
+    "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/september/260928-flus-flca-recoqkysjvvt5fena-lifestyle-running/260928-flus-flca-recOQkYSjVvt5fENa-lifestyle-running-sotf-3up.jpg",
+    "description": "Shop Lifestyle Running",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "halloween.jpg",
+    "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/20261012-rec0tuqdpgnoorqfz-flus-flca-halloween-color-story/20261012-rec0TuQdPgnOorqFZ-FLUS-FLCA-Halloween-Color-Story-3UP-D-A.jpg",
+    "description": "Shop Halloween",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "caitlin-pink-catalog.png",
+    "url": "https://images.footlocker.com/is/image/EBFL2/H7423600?wid=800&hei=800",
+    "description": "Nike Caitlin 1 - Men's / H7423600",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "caitlin-blue.png",
+    "url": "https://images.footlocker.com/is/image/EBFL2/H7423400?wid=800&hei=800",
+    "description": "Nike Caitlin 1 - Men's / H7423400",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "caitlin-yellow.png",
+    "url": "https://images.footlocker.com/is/image/EBFL2/H7423700?wid=800&hei=800",
+    "description": "Nike Caitlin 1 - Men's / H7423700",
+    "source": "Foot Locker official asset"
+  },
+  {
+    "file": "witness.png",
+    "source": "User-supplied reference: codex-clipboard-d2c02d51-202b-43c0-9d76-409c085757da.png",
+    "crop": {
+      "left": 76,
+      "top": 595,
+      "width": 312,
+      "height": 141
+    },
+    "description": "Nike LeBron Witness IX — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "lebron-green.png",
+    "source": "User-supplied reference: codex-clipboard-d2c02d51-202b-43c0-9d76-409c085757da.png",
+    "crop": {
+      "left": 447,
+      "top": 586,
+      "width": 318,
+      "height": 152
+    },
+    "description": "Nike LeBron XXIII — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "nb9060.png",
+    "source": "User-supplied reference: codex-clipboard-d2c02d51-202b-43c0-9d76-409c085757da.png",
+    "crop": {
+      "left": 822,
+      "top": 588,
+      "width": 306,
+      "height": 146
+    },
+    "description": "New Balance 9060 brown — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "samba.png",
+    "source": "User-supplied reference: codex-clipboard-d2c02d51-202b-43c0-9d76-409c085757da.png",
+    "crop": {
+      "left": 1192,
+      "top": 591,
+      "width": 312,
+      "height": 146
+    },
+    "description": "adidas Originals Samba white/black — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "ae1.png",
+    "source": "User-supplied reference: codex-clipboard-11c98e82-594e-4834-8396-83005523b406.png",
+    "crop": {
+      "left": 946,
+      "top": 536,
+      "width": 275,
+      "height": 119
+    },
+    "description": "adidas Anthony Edwards 1 — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "sabrina.png",
+    "source": "User-supplied reference: codex-clipboard-11c98e82-594e-4834-8396-83005523b406.png",
+    "crop": {
+      "left": 1250,
+      "top": 536,
+      "width": 266,
+      "height": 119
+    },
+    "description": "Nike Sabrina 3 — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "kd17.png",
+    "source": "User-supplied reference: codex-clipboard-11c98e82-594e-4834-8396-83005523b406.png",
+    "crop": {
+      "left": 345,
+      "top": 792,
+      "width": 276,
+      "height": 122
+    },
+    "description": "Nike KD 17 — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "tatum3.png",
+    "source": "User-supplied reference: codex-clipboard-11c98e82-594e-4834-8396-83005523b406.png",
+    "crop": {
+      "left": 647,
+      "top": 792,
+      "width": 276,
+      "height": 122
+    },
+    "description": "Jordan Tatum 3 — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "lebron-nxxt.png",
+    "source": "User-supplied reference: codex-clipboard-11c98e82-594e-4834-8396-83005523b406.png",
+    "crop": {
+      "left": 949,
+      "top": 792,
+      "width": 273,
+      "height": 122
+    },
+    "description": "Nike LeBron NXXT Gen AMPD — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "dame9.png",
+    "source": "User-supplied reference: codex-clipboard-11c98e82-594e-4834-8396-83005523b406.png",
+    "crop": {
+      "left": 1250,
+      "top": 792,
+      "width": 268,
+      "height": 122
+    },
+    "description": "adidas Dame 9 — supplied reference",
+    "processing": "Original shoe pixels preserved. Cropped from user image; 30×28 top-right background patch removes a clipped screenshot heart icon, without touching the shoe."
+  },
+  {
+    "file": "player-lebron.png",
+    "source": "User-supplied reference: codex-clipboard-a08aea93-86bb-4715-8e92-227f52b18e46.png",
+    "crop": {
+      "left": 165,
+      "top": 231,
+      "width": 121,
+      "height": 147
+    },
+    "description": "LeBron James — original Foot Locker screenshot",
+    "processing": "Crop only; no redraw, recoloring or generative processing."
+  },
+  {
+    "file": "player-anthony.png",
+    "source": "User-supplied reference: codex-clipboard-a08aea93-86bb-4715-8e92-227f52b18e46.png",
+    "crop": {
+      "left": 300,
+      "top": 231,
+      "width": 122,
+      "height": 147
+    },
+    "description": "Anthony Edwards — original Foot Locker screenshot",
+    "processing": "Crop only; no redraw, recoloring or generative processing."
+  },
+  {
+    "file": "player-sabrina.png",
+    "source": "User-supplied reference: codex-clipboard-a08aea93-86bb-4715-8e92-227f52b18e46.png",
+    "crop": {
+      "left": 978,
+      "top": 231,
+      "width": 122,
+      "height": 147
+    },
+    "description": "Sabrina Ionescu — original Foot Locker screenshot",
+    "processing": "Crop only; no redraw, recoloring or generative processing."
+  },
+  {
+    "file": "player-tatum.png",
+    "source": "User-supplied reference: codex-clipboard-a08aea93-86bb-4715-8e92-227f52b18e46.png",
+    "crop": {
+      "left": 707,
+      "top": 231,
+      "width": 122,
+      "height": 147
+    },
+    "description": "Jayson Tatum — original Foot Locker screenshot",
+    "processing": "Crop only; no redraw, recoloring or generative processing."
+  },
+  {
+    "file": "player-kd.png",
+    "source": "User-supplied reference: codex-clipboard-a08aea93-86bb-4715-8e92-227f52b18e46.png",
+    "crop": {
+      "left": 843,
+      "top": 231,
+      "width": 122,
+      "height": 147
+    },
+    "description": "Kevin Durant — original Foot Locker screenshot",
+    "processing": "Crop only; no redraw, recoloring or generative processing."
+  },
+  {
+    "file": "caitlin-pink-tile.png",
+    "source": "assets/caitlin-pink-catalog.png",
+    "processing": "Original catalog photo; whitespace crop only, left 0/top185/width800/height430. No recoloring, flipping or generative editing."
+  },
+  {
+    "file": "caitlin-blue-tile.png",
+    "source": "assets/caitlin-blue.png",
+    "processing": "Original catalog photo; whitespace crop only, left 0/top185/width800/height430. No recoloring, flipping or generative editing."
+  },
+  {
+    "file": "caitlin-yellow-tile.png",
+    "source": "assets/caitlin-yellow.png",
+    "processing": "Original catalog photo; whitespace crop only, left 0/top185/width800/height430. No recoloring, flipping or generative editing."
+  },
+  {
+    "file": "campaign-tight.png",
+    "source": "assets/campaign.jpg",
+    "processing": "Lossless background crop: left 0, top 140, width 2000, height 535. Shoe appearance unchanged."
+  }
+]

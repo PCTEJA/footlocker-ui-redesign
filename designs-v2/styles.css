@@ -57,7 +57,7 @@ dialog {
 @media(min-width:701px){.campaign>img{content:url("assets/campaign-tight.png")}}
 /* Keep the first product actions inside a 580px-high laptop window. */
 @media(min-width:701px) and (max-height:650px){.listing .breadcrumb{display:none}.listing-title{margin:13px 0 10px}.listing-title p{display:none}.listing .player{height:50px}.listing .players{margin-bottom:10px}.listing .filterbar{min-height:46px;padding-block:5px}}
-.skip-link{position:fixed;left:16px;top:-70px;z-index:20;background:#111;color:white;padding:12px}.skip-link:focus{top:12px}.bag-body{padding:20px}.bag-row{display:grid;grid-template-columns:135px 1fr;gap:18px;padding:16px 0;border-bottom:1px solid #ddd}.bag-row>img{width:135px;max-height:110px;object-fit:contain}.bag-row p{font-size:12px;margin:5px 0}.bag-row .inline{display:block;font-size:12px;margin-top:10px}.bag-note{font-size:12px;color:#666;margin-bottom:15px}.empty-results{grid-column:1/-1;padding:28px 0;color:#666}[hidden]{display:none!important}
+.skip-link{position:fixed;left:16px;top:-70px;z-index:20;background:#111;color:white;padding:12px}.skip-link:focus{top:12px}.bag-body{padding:20px}.bag-row{display:grid;grid-template-columns:135px 1fr;gap:18px;padding:16px 0;border-bottom:1px solid #ddd}.bag-row img{width:135px;max-height:110px;object-fit:contain}.bag-row p{font-size:12px;margin:5px 0}.bag-row .inline{display:block;font-size:12px;margin-top:10px}.bag-note{font-size:12px;color:#666;margin-bottom:15px}.empty-results{grid-column:1/-1;padding:28px 0;color:#666}[hidden]{display:none!important}
 .disclaimer-open{overflow:hidden}#site-disclaimer{position:fixed;inset:0;margin:auto;width:850px;max-width:calc(100% - 40px);max-height:calc(100svh - 40px);border:1px solid #ffffffc9;border-radius:24px;overflow:auto;background:linear-gradient(135deg,#fffffffa 0%,#fffffff2 52%,#ffe3f6e8 100%);box-shadow:0 35px 120px #0005,inset 0 1px 0 #fff;backdrop-filter:blur(28px);-webkit-backdrop-filter:blur(28px)}#site-disclaimer::backdrop{background:#10101994;backdrop-filter:blur(9px);-webkit-backdrop-filter:blur(9px)}.disclaimer-gloss{position:absolute;inset:0;overflow:hidden;pointer-events:none;border-radius:inherit;background:radial-gradient(ellipse at 100% 5%,#ffbde466,transparent 48%)}.disclaimer-gloss:after{content:"";position:absolute;width:850px;height:120px;background:linear-gradient(180deg,#fff9,#fff0);transform:rotate(-36deg);top:-80px;right:-120px}.disclaimer-content{position:relative;padding:38px 46px 30px}.disclaimer-kicker{display:flex;align-items:center;gap:10px;font-size:10px;font-weight:600;letter-spacing:.15em}.study-mark{width:29px;height:29px;border:1px solid #111;border-radius:50%;display:grid;place-items:center;font-size:20px;line-height:1}.disclaimer-intro{margin-top:25px;color:#555;font-size:13px}#disclaimer-title{font:54px/1.05 FL,Arial,sans-serif;letter-spacing:-.02em;margin:12px 0 18px;max-width:740px}#disclaimer-title span{color:#a70073}#disclaimer-description{font-size:23px;line-height:1.35;font-weight:500;max-width:640px}.disclaimer-rule{height:1px;background:#1112;margin:23px 0 18px}.disclaimer-detail{font-size:13px;color:#555;max-width:640px;line-height:1.65}.disclaimer-facts{display:flex;gap:20px;font-size:11px;margin:16px 0 25px;color:#444}.disclaimer-facts span{display:flex;align-items:center;gap:7px}.disclaimer-facts span:before{content:"";width:4px;height:4px;background:#a70073;border-radius:50%}.disclaimer-actions{display:flex;align-items:center;gap:25px}.disclaimer-enter{background:#111;color:white;display:flex;align-items:center;justify-content:space-between;gap:30px;min-height:49px;padding:13px 20px;border-radius:4px;font-size:14px;font-weight:500;box-shadow:0 5px 12px #0002}.disclaimer-official{display:flex;gap:9px;align-items:center;font-size:12px;text-decoration:underline;text-underline-offset:4px}.disclaimer-official svg{width:16px}.disclaimer-footnote{font-size:10px;color:#777;margin-top:22px}.disclaimer-reopen{font-size:10px;color:#555}
 @media(max-width:700px){#site-disclaimer{max-width:calc(100% - 24px);max-height:calc(100svh - 24px);border-radius:20px;margin:auto}.disclaimer-content{padding:25px 24px 23px}.disclaimer-kicker{font-size:8px;letter-spacing:.12em;gap:8px}.study-mark{width:26px;height:26px}.disclaimer-intro{margin-top:25px;font-size:11px}#disclaimer-title{font-size:39px;line-height:1.06;margin:12px 0 19px}#disclaimer-description{font-size:21px;line-height:1.4}.disclaimer-rule{margin:22px 0 17px}.disclaimer-detail{font-size:12px;line-height:1.65}.disclaimer-facts{gap:10px;flex-wrap:wrap;font-size:10px;margin:18px 0 25px}.disclaimer-actions{flex-direction:column;align-items:stretch;gap:20px}.disclaimer-enter{min-height:48px;width:100%;font-size:13px}.disclaimer-official{justify-content:center;font-size:11px}.disclaimer-footnote{font-size:9px;line-height:1.6;margin-top:20px}}@media(min-width:701px) and (max-height:650px){.disclaimer-content{padding:25px 36px 23px}.disclaimer-intro{margin-top:16px}#disclaimer-title{font-size:43px;margin-block:8px 12px}#disclaimer-description{font-size:20px}.disclaimer-rule{margin:17px 0 12px}.disclaimer-facts{margin:12px 0 18px}.disclaimer-footnote{margin-top:15px}}
 
@@ -123,7 +123,7 @@ dialog {
   #quick-shop .quick-footer .primary { grid-row: 1 / 3; }
   #quick-shop .quick-footer > .text-link { margin: 0; }
   #quick-shop .quick-footer small { grid-column: 2; }
-  #preview-bag .bag-row > img { max-height: 70px; }
+  #preview-bag .bag-row img { max-height: 70px; }
   #preview-bag .bag-row { padding-bottom: 8px; }
   #preview-bag .bag-row .inline { margin-top: 6px; }
   #preview-bag .bag-pagination { margin-top: 8px; }
@@ -134,7 +134,7 @@ dialog {
   .bag-actions .primary { font-size: 12px; padding: 10px; gap: 6px; }
   .bag-actions svg { width: 16px; }
   #preview-bag .bag-row { grid-template-columns: 96px 1fr; gap: 12px; }
-  #preview-bag .bag-row > img { width: 96px; }
+  #preview-bag .bag-row img { width: 96px; }
 }
 @media (max-width: 599px) and (max-height: 560px) {
   #quick-shop .dialog-header { padding-block: 6px; }
@@ -174,3 +174,9 @@ dialog {
   .home .campaign-copy { top: 8px; }
   .home .campaign-copy h1 { font-size: 30px; }
 }
+
+/* Product links retain the existing typography and image layout. */
+.product-detail-image { display: block; }
+.product-detail-image img { display: block; }
+.product-detail-link { font: inherit; color: inherit; text-decoration: none; }
+.quick-product > .product-detail-image { width: 100%; }
